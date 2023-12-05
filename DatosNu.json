@@ -1,0 +1,126 @@
+{   
+    "name": "Informacion_nutrimental",
+  
+    "Maruchan": {
+      "id": "01",
+      "Porcion": "295",
+      "Kcal": "187",
+      "Grasas": "7.4",
+      "Carbohidratos": "26.0",
+      "Proteinas": "4.2"
+    },
+    "Groditas": {
+        "id":"02",
+        "Porcion": "133",
+        "Kcal": "206",
+        "Grasas": "4.3",
+        "Carbohidratos": "28.2",
+        "Proteinas": "12.9"
+      },
+      "Flautas": {
+        "id":"03",
+        "Porcion": "96",
+        "Kcal": "128",
+        "Grasas": "4.0",
+        "Carbohidratos": "21.6",
+        "Proteinas": "2.3"
+      },
+      "Jamaica": {
+        "id":"04",
+        "Porcion": "500",
+        "Kcal": "140",
+        "Grasas": "0.1",
+        "Carbohidratos": "35.8",
+        "Proteinas": "0.2"
+      },
+      "Frappe": {
+        "id":"05",
+        "Porcion": "409",
+        "Kcal": "142",
+        "Grasas": "7.9",
+        "Carbohidratos": "14.1",
+        "Proteinas": "7.6"
+      },
+      "Hotcakes": {
+        "id":"06",
+        "Porcion": "100",
+        "Kcal": "187",
+        "Grasas": "4.8",
+        "Carbohidratos": "29.5",
+        "Proteinas": "6.4"
+      },
+      "Arizona": {
+        "id":"07",
+        "Porcion": "680",
+        "Kcal": "283",
+        "Grasas": "0.0",
+        "Carbohidratos": "70.7",
+        "Proteinas": "0.0"
+      },
+      "Horchata": {
+        "id":"08",
+        "Porcion": "500",
+        "Kcal": "259",
+        "Grasas": "3.4",
+        "Carbohidratos": "55.3",
+        "Proteinas": "3.2"
+      },
+      "Moyetes": {
+        "id":"09",
+        "Porcion": "120",
+        "Kcal": "294",
+        "Grasas": "1.9",
+        "Carbohidratos": "58.8",
+        "Proteinas": "9.1"
+      },
+      "Torta": {
+        "id":"10",
+        "Porcion": "295",
+        "Kcal": "793",
+        "Grasas": "43.1",
+        "Carbohidratos": "67.5",
+        "Proteinas": "33.5"
+      },
+      "Chilaquiles": {
+        "id":"11",
+        "Porcion": "190",
+        "Kcal": "435",
+        "Grasas": "16.8",
+        "Carbohidratos": "36.8",
+        "Proteinas": "34.2"
+      },
+      "Sincronizadas": {
+        "id":"12",
+        "Porcion": "190",
+        "Kcal": "477",
+        "Grasas": "21.6",
+        "Carbohidratos": "40.7",
+        "Proteinas": "29.6"
+      },
+      "Gatorade": {
+        "id":"13",
+        "Porcion": "600",
+        "Kcal": "144",
+        "Grasas": "0.0",
+        "Carbohidratos": "36.0",
+        "Proteinas": "0.0"
+      },
+      "MuffinChocolate": {
+        "id":"14",
+        "Porcion": "130",
+        "Kcal": "473",
+        "Grasas": "19.2",
+        "Carbohidratos": "67.7",
+        "Proteinas": "7.3"
+      },
+      "Galletas": {
+        "id":"15",
+        "Porcion": "90",
+        "Kcal": "392",
+        "Grasas": "16.0",
+        "Carbohidratos": "55.0",
+        "Proteinas": "7.0"
+      }
+}
+
+
